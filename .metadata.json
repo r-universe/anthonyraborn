@@ -1,5 +1,9 @@
 [
   {
+    "package": "caMST",
+    "oncran": true
+  },
+  {
     "package": "ShortForm",
     "oncran": true
   }
