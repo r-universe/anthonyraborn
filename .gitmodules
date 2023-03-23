@@ -8,6 +8,11 @@
 	url = https://github.com/anthonyraborn/camst
 	shallow = true
 	registered = true
+[submodule "repsd"]
+	path = repsd
+	url = https://github.com/anthonyraborn/repsd
+	shallow = true
+	registered = true
 [submodule "ShortForm"]
 	path = ShortForm
 	url = https://github.com/anthonyraborn/shortform
